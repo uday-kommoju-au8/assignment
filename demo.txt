@@ -1,0 +1,13 @@
+hi guys
+today i will write you some basic commands
+pwd -- it allows you to check where your means which directory
+ls -- list of files and folders
+cd -- change directory
+cd .. -- come out of directory
+mkdir -- it creates a folder
+touch -- it creates afile
+rm -- remove sthe files/folder
+cp -- copy the file
+mv -- moves the file
+cp -r -- copy the folder
+mv -r -- move the folder
